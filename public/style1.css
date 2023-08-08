@@ -1,0 +1,20 @@
+body{
+    margin: 0px;
+    background-color: #f5f5f5;
+}
+.Maincontent{
+    background-color: #dddddd;
+    padding: 20px 15px 28px 55px;
+}
+h1{
+    color: #146C94;
+}
+.btn{
+    color: white;
+    font-size: 15px;
+    background-color: #0069d9;
+    border: none;
+    padding: 14px;
+    border-radius: 5%;
+    margin-top: 5px;
+}

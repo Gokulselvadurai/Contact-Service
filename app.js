@@ -28,7 +28,7 @@ app.post("/",(req,res)=>{
     const options = {
         auth: {
           username: "Gokul",
-          password: "b1d3377a75908e46609aec2ec006bf02-us10"
+          password: "de49cb0418f1f09f780c0a293a462173-us10"
         }
     };
     var err;
@@ -61,4 +61,4 @@ app.listen(process.env.PORT || 3000,()=>{
 //34d6a6c980
 
 //api key
-//b1d3377a75908e46609aec2ec006bf02-us10
+//de49cb0418f1f09f780c0a293a462173-us10
